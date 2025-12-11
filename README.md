@@ -35,4 +35,7 @@ It lets you quickly add tasks, organize them by category (Work, School, Personal
 - **Styling:** Tailwind CSS (utility-first)
 
 
+---
+## 🚀 Live Demo
 
+👉 **Demo:** https://s-chahine.github.io/task-track/
